@@ -48356,6 +48356,12 @@
 	},
 /turf/open/floor/churchrough,
 /area/indoors/town/church)
+"sKv" = (
+/obj/structure/window/openclose{
+	dir = 4
+	},
+/turf/open/floor/woodturned/nosmooth,
+/area/indoors/town/keep/halls/s)
 "sKw" = (
 /obj/structure/fluff/walldeco/vinez,
 /turf/closed/mineral/bedrock,
@@ -165186,8 +165192,8 @@ gfs
 muH
 muH
 muH
-gfs
-gfs
+sKv
+sKv
 muH
 muH
 ybB
