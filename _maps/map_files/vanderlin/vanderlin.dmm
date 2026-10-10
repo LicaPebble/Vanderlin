@@ -15500,7 +15500,7 @@
 	pixel_y = 7
 	},
 /obj/structure/table/wood/plain_alt,
-/turf/open/floor/wood,
+/turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/keep/throne)
 "ghR" = (
 /obj/structure/fluff/psycross,
@@ -25974,12 +25974,6 @@
 /obj/structure/stairs/fancy/l{
 	dir = 4
 	},
-/obj/structure/stairs/fancy/r{
-	dir = 4
-	},
-/obj/structure/stairs/fancy/l{
-	dir = 4
-	},
 /turf/open/floor/carpet/lord/left{
 	dir = 1
 	},
@@ -30775,6 +30769,12 @@
 	},
 /turf/open/floor/wood,
 /area/indoors/town/keep/halls/w)
+"mcY" = (
+/obj/structure/fluff/clutter/shrub/red{
+	pixel_x = 2
+	},
+/turf/open/floor/herringbone,
+/area/indoors/town/keep/halls/w)
 "mdh" = (
 /obj/machinery/light/fueled/firebowl/standing,
 /turf/open/floor/grass,
@@ -32077,12 +32077,6 @@
 /obj/machinery/light/fueled/wallfire/candle/l,
 /turf/open/floor/churchbrick,
 /area/indoors/town/keep/guest/meeting)
-"mDl" = (
-/obj/structure/fluff/clutter/shrub/red{
-	pixel_x = 2
-	},
-/turf/open/floor/herringbone,
-/area/indoors/town/keep/halls/w)
 "mDo" = (
 /obj/structure/fluff/walldeco/church/line{
 	dir = 1
@@ -42748,7 +42742,7 @@
 /obj/machinery/light/fueled/wallfire/candle{
 	pixel_y = -32
 	},
-/turf/open/floor/wood,
+/turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/keep/halls/s)
 "qGj" = (
 /obj/machinery/light/fueled/wallfire/candle/r,
@@ -45039,7 +45033,7 @@
 	dir = 1;
 	pixel_y = 7
 	},
-/turf/open/floor/wood,
+/turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/keep/throne)
 "rzp" = (
 /obj/structure/fluff/railing/wood,
@@ -49650,7 +49644,7 @@
 	dir = 1;
 	pixel_y = 7
 	},
-/turf/open/floor/wood,
+/turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/keep/throne)
 "tot" = (
 /obj/structure/door/window{
@@ -56863,7 +56857,7 @@
 /area/indoors/town/keep/throne)
 "wak" = (
 /obj/machinery/light/fueled/wallfire/candle,
-/turf/open/floor/wood,
+/turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/keep/halls/s)
 "wam" = (
 /obj/structure/roguerock{
@@ -164162,7 +164156,7 @@ qzJ
 qzJ
 qzJ
 qzJ
-mDl
+mcY
 niN
 niN
 niN
@@ -165991,8 +165985,8 @@ jfr
 jfr
 jfr
 rzl
-aIy
-aIy
+qjJ
+qjJ
 qCz
 lLG
 lLG
@@ -166193,8 +166187,8 @@ jfr
 jmB
 jfr
 ghJ
-aIy
-aIy
+qjJ
+qjJ
 xEM
 lLG
 qZh
@@ -166395,8 +166389,8 @@ jfr
 jfr
 jfr
 ton
-aIy
-aIy
+qjJ
+qjJ
 oKc
 lLG
 lLG
@@ -202333,7 +202327,7 @@ qFx
 qFx
 qFx
 qFx
-qFx
+ubO
 ubO
 wId
 xFy
@@ -202535,7 +202529,6 @@ qFx
 qFx
 qFx
 qFx
-qFx
 ubO
 xJA
 uSL
@@ -202545,6 +202538,7 @@ ubO
 bIG
 ftD
 ftD
+bIG
 ftD
 ftD
 ftD
@@ -202737,13 +202731,13 @@ qFx
 qFx
 qFx
 qFx
-qFx
 ubO
 nBt
 doH
 ejc
 xFy
 lJr
+ftD
 ftD
 ftD
 ftD
@@ -202939,7 +202933,6 @@ qFx
 qFx
 qFx
 qFx
-qFx
 ubO
 xJA
 qFU
@@ -202949,6 +202942,7 @@ ubO
 bIG
 ftD
 ftD
+bIG
 ftD
 ftD
 ftD
@@ -203141,13 +203135,13 @@ qFx
 qFx
 qFx
 qFx
-qFx
 ubO
 ubO
 ubO
 ubO
 ubO
 ubO
+exy
 uXq
 uXq
 ruP
